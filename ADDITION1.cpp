@@ -4,16 +4,15 @@ using namespace std;
 int main() {
     int a, b, sum;
 
-    cout << "Enter first number: ";
+    cout << "Enter A: ";
     cin >> a;
-
-    cout << "Enter second number: ";
+     cout << "Enter B: ";
     cin >> b;
 
     sum = a + b;
-
-    cout << "Sum = " << sum << endl;
+     cout << "Sum = " << sum << endl;
 
     return 0;
 }
+
 
